@@ -22,5 +22,5 @@ if (age < 18) {
 
 // Output final price
 let rounded_price = Math.round( final_price * 100 ) / 100;
-console.log(rounded_price);
+console.log("Prezzo finale: " + rounded_price);
 
